@@ -1,5 +1,11 @@
 # Visual + Text Hybrid Search
 
+
+
+https://github.com/user-attachments/assets/fa62bad9-685a-495a-bd44-0b2ecb5cf321
+
+
+
 Search a product catalog by typing what you want, dropping in a photo, or both. Type "red leather jacket under $200" or upload a picture of a jacket and get back the closest matches.
 
 ## How it works
